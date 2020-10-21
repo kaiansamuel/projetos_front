@@ -84,7 +84,7 @@
     padding: 30px;
     margin-top: 40px;
     float: left;
-    width: 619px;
+    width: 519px;
     height: 270px;
     background-color: rgba(33,35,67,0.7);
 }
@@ -119,3 +119,22 @@
     background-image: url('imagens/arrow.png');
     background-size: 100% 100%;
 }
+.section-1{
+    padding: 90px 0;
+}
+.section-1 h2{
+    text-align: center;
+    color: #462663;
+    font: normal;
+}
+.container-section{
+    margin-top: 40px;
+}
+.container-section{
+    text-align: center;
+}
+.container-single{
+    float: left;
+    width: 33.3%;
+}
+
